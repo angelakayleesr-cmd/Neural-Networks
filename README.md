@@ -41,10 +41,8 @@ Teknologi yang Digunakan
 
 
 
-Kesimpulan Sistem Informasi
+Kesimpulan 
 
 Hasil dari model ini tidak hanya berupa angka akurasi, tetapi diinterpretasikan untuk mendukung pengambilan keputusan strategis, seperti manajemen risiko kesehatan, optimasi pendapatan hotel, dan strategi pemasaran ritel yang dipersonalisasi.
-
-Apakah ada bagian tertentu dari keempat dataset tersebut yang ingin Anda pertegas analisisnya untuk dimasukkan ke dalam **Bab 6 (Interpretasi)** laporan Anda?
 
 ```
