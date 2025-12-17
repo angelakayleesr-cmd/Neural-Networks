@@ -4,7 +4,7 @@ Tugas Proyek Kelompok - MKB24003 Machine Learning (3 SKS)
 
  Anggota Kelompok
  Nama : Yuliana Olo 
- Nama :
+ Nama : anggela
 
 
  Deskripsi Proyek
